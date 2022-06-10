@@ -4,9 +4,9 @@
 @@ Disclaimer of Liability @@
 
 - Those are my personal Klipper configs!
-- Made specifically for my printers and for my hardware!
+- Made specifically for my printers/hardware!
 - I will not hold any responsibility for your printer!
-- You use those configs on you own risk!
+- You use those configs on your own risk!
 
 + Thank you!
 ```
